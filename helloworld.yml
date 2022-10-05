@@ -1,6 +1,6 @@
 ---
 - name: Update and reboot
-  # Uepaa note: your 'hosts' section will likely be different as this is a group I created for my Red Hat hosts in Ansible Tower itself.
+  # Paree Uepaa note: your 'hosts' section will likely be different as this is a group I created for my Red Hat hosts in Ansible Tower itself.
   hosts: all
   gather_facts: no
   tasks:
