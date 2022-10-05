@@ -12,5 +12,5 @@
     - name: Reboot servers
       reboot:
         pre_reboot_delay: 90
-        msg: "!!!Attention, server will be rebooted in 130 seconds!!!"
+        msg: "!!!Attention, server will be rebooted in 150 seconds!!!"
 ...
