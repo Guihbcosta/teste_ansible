@@ -1,6 +1,6 @@
 ---
 - name: Update and reboot
-  # V4 TESTE note: your 'hosts' section will likely be different as this is a group I created for my Red Hat hosts in Ansible Tower itself.
+  # V5 TESTE note: your 'hosts' section will likely be different as this is a group I created for my Red Hat hosts in Ansible Tower itself.
   hosts: all
   gather_facts: no
   tasks:
